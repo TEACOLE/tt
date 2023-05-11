@@ -156,7 +156,7 @@ Tab:AddButton({
 
 	Callback = function()
 
-      		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-2361.814697265625, -26.399837493896484, -2155.123779296875)
+      		game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(2361.814697265625, -26.399837493896484, -2155.123779296875)
 
   	end    
 
